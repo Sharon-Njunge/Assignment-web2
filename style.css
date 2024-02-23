@@ -1,0 +1,37 @@
+
+#form{
+    text-decoration: dashed;
+    color: chartreuse;
+    margin: auto;
+    width: 50%;
+    border: solid 1px;
+}
+h1{
+    text-decoration: dashed;
+    color: darkorange;
+}
+button{
+    background-color: white;
+    color: blue;
+    width: 30%;
+}
+image{
+    margin: right 30%; 
+    width: 30%;
+    padding: 5px 10px;
+    position: absolute;
+    left: auto;
+    top: auto;
+}
+#out{
+    display: flex;
+    grid-template-columns: right;
+    border-radius: solid 1px;
+
+}
+.input{
+    padding: 5px 10px;
+    border: solid 1px;
+    border-color: blue;
+    margin: auto;
+}
